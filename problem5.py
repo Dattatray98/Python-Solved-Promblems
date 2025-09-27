@@ -58,6 +58,8 @@ def palindrome_method_2():
 
     print(largest_palindrome)  # output is 906609
 
+# call the functon palindrome_method_2() to get the output as per problem statement is 906609
+
 
 # another esaiest method to solve this problem without using array and nested loop by using generater expression and max function
 def palindrome_method_3():
@@ -70,6 +72,9 @@ def palindrome_method_3():
 
     print(largest_palindrome)  # output is 906609
 
+# call the function palindrome_method_3() to get the output as per problem statement is 906609
+
 
 # above all methods are correct and give the same output 906609
 # you can use any method you like
+# 
